@@ -7,6 +7,8 @@ int main(){
     }cout << endl;
     int x = 100 ;
     cout << x+100 << endl;
+
+    cout <<"HI"<<endl;
     return 0 ;
 
 }
