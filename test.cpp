@@ -5,5 +5,8 @@ int main(){
     for(int i = 0 ; i <  6 ; i++){
         cout << arr[i] <<' ';
     }cout << endl;
+    int x = 100 ;
+    cout << x+100 << endl;
+    return 0 ;
 
 }
